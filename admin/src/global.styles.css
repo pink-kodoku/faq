@@ -1,0 +1,10 @@
+
+/*disable alert inside editor*/
+.tox-notifications-container {
+    display: none;
+}
+
+/*disable logo icon inside editor*/
+.tox-statusbar__branding {
+    display: none;
+}
